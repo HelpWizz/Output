@@ -1,0 +1,8 @@
+Test1 = '>' not supported between instances of 'str' and 'int'
+  File "C:\Users\seane\Downloads\117\file.py", line 3, in <module>
+    if b > a:
+TypeError: '>' not supported between instances of 'str' and 'int'
+
+Test2 = EmilRefsnes
+TobiasRefsnes
+LinusRefsnes
